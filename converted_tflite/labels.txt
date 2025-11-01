@@ -1,0 +1,10 @@
+0 Beluga_Whale
+1 Blue whale
+2 Fin whale
+3 Gray whale
+4 Humpback whale
+5 Minke whale
+6 Narhwal whale 
+7 Orca
+8 Sei whale
+9 Sperm whale
